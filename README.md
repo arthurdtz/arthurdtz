@@ -1,17 +1,17 @@
-### Hi, I'm Arthur 👋
+## Hi, I'm Arthur 👋
 
-Software Engineering student focused on building a career in **QA Automation**.
+Software Engineering student building a career in **QA Automation**.
 
-Before learning to test software, I learned to build it — I develop mobile apps with Flutter/Dart, which means I understand what's happening underneath the UI: API calls, database queries, and the edge cases a developer might miss.
+I bring a developer's perspective to testing: I have experience building mobile applications with Flutter/Dart, so I understand UI behavior, API communication, data flow, and the edge cases that can affect users in production.
 
-Right now I'm applying that foundation to test automation — writing test suites, learning frameworks, and figuring out how quality actually gets built into software, not just checked at the end.
+Currently, I build automated API and UI test suites with **Python, pytest, Selenium, and Requests**. My focus is on writing reliable checks, organizing maintainable test code, and evolving toward CI/CD and quality engineering practices.
 
 ---
 
-**🔭 Currently building:** [qa-automation-portfolio](https://github.com/arthurdtz/qa-automation-portfolio) — API & UI test automation with Python, pytest, and Selenium
+**🔭 Featured project:** [qa-automation-portfolio](https://github.com/arthurdtz/qa-automation-portfolio ) — API and UI automation with Python, pytest, and Selenium
 
-**🧰 Working with:** Python · SQL · Flutter/Dart · pytest · Git
+**🧰 Working with:** Python · pytest · Selenium · Requests · SQL · Git · Flutter/Dart
 
-**🌱 Learning:** Test automation frameworks, CI/CD, BDD
+**🌱 Currently improving:** CI/CD with GitHub Actions · API testing · test design · BDD fundamentals
 
 **📫 Reach me:** [LinkedIn](https://www.linkedin.com/in/arthurdtz)
