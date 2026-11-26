@@ -43,7 +43,7 @@ We're building the ecodex website from scratch, with a diagnostic intake form an
   <img src="https://img.shields.io/badge/Python-080C0B?style=for-the-badge&logo=python&logoColor=A3FF12" alt="Python" />
   <img src="https://img.shields.io/badge/pytest-080C0B?style=for-the-badge&logo=pytest&logoColor=A3FF12" alt="pytest" />
   <img src="https://img.shields.io/badge/Selenium-080C0B?style=for-the-badge&logo=selenium&logoColor=A3FF12" alt="Selenium" />
-  <img src="https://img.shields.io/badge/Requests-080C0B?logo=python&logoColor=A3FF12&style=for-the-badge" alt="Requests" />
+  <img src="assets/badges/requests.svg" alt="Requests" />
   <img src="https://img.shields.io/badge/axe_core-080C0B?style=for-the-badge&logo=deque&logoColor=A3FF12" alt="axe" />
 </p>
 
